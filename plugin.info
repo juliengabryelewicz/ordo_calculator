@@ -1,0 +1,6 @@
+[Plugin]
+Id = ordo_calculator
+Name = Calculatrice
+Version = 1.0.0
+Description = Calculatrice
+Required = 
